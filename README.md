@@ -34,11 +34,11 @@
 ---
 ### Say Hi 👋
 <p align="center">
-<a href="https://dev.to/darshana" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="darshana" height="30" width="40" /></a>
+<a href="https://dly.to/sF5SjIuv2OR" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/DevTo-Dark.svg" alt="darshana" height="30" width="40" /></a>
 <a href="https://twitter.com/darshana682000" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="darshana682000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/darshana sampath" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="darshana sampath" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/darshana sampath" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="darshana sampath" height="30" width="40" /></a>
-<a href="https://fb.com/darshana sampath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshana sampath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/darshana-sampath-976465284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWu9knccZRUC1Jk5c1Aj7iw%3D%3D" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="darshana sampath" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27074642/darshana" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/StackOverflow-Dark.svg" alt="darshana sampath" height="30" width="40" /></a>
+<a href="https://web.facebook.com/darshana.sampath.712161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshana sampath" height="30" width="40" /></a>
 </p>
 
 ## Languages
