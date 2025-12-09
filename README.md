@@ -6,8 +6,6 @@
 		<img src="https://img.shields.io/github/followers/darshana200068?label=Followers" alt="darshana200068" />
 	</a>
 </p>
-
-<hr>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
